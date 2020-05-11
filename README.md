@@ -1,5 +1,4 @@
-# Dojo React API - CRUD BY Ikram Nathan Armin Camille And Abdel <i class="fas fa-heart"></i>
-
+# Dojo React API - CRUD BY Ikram Nathan Armin Camille And Abdel 😃
 ## A propos de ce dojo
 
 Ce dojo est l'occasion parfaite de revoir les bases de React, en se concentrant 
