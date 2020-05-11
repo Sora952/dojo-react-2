@@ -1,0 +1,52 @@
+html, body, #root {
+  height: 100%;
+}
+
+*:focus {
+  outline: none;
+}
+
+.app {
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 35px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.task-table-container {
+  max-width: 600px;
+  margin: auto;
+}
+
+.check-task-cell {
+  width: 40px;
+  padding-right: 0!important;
+}
+
+.task-action-btn {
+  cursor: pointer;
+}
+
+.task-action-btn.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.task-row.processing {
+  opacity: 0.3;
+  pointer-events: none;
+}
+
+.new-task-name-input {
+  padding: 10px 10px 10px 0;
+  border: none;
+  width: 100%;
+  font-family: "Roboto", serif;
+  font-size: 15px;
+}
+
+
